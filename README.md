@@ -1,2 +1,2 @@
 # shoppingMall
-a project shoppingmall by vue,nodejs and mongoDb
+a shoppingmall made by vue,nodejs and mongoDb for learning.
